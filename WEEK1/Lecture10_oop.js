@@ -1,8 +1,8 @@
         // This is object Literal
 
 let person = {
-    firstName: "Likith",
-    lastName: "Ramnaik",
+    firstName: "Rohit",
+    lastName: "Thota",
 
     getFullName: function(){
         return `he name of the person is ${person.firstName} ${person.lastName}`
@@ -27,8 +27,8 @@ console.log(person.phoneNumber.landline);
 //     this.lastName = lastName;
 // }
 
-// let person1 = new person("Likith", "ramnaik");
-// let person2 = new person("jaswanth", "ramnaik");
+// let person1 = new person("Rohit", "ramnaik");
+// let person2 = new person("sai", "ramnaik");
 
 // console.log(person1.firstName);
 // console.log(`${person2.firstName} ${person2.lastName}`);
@@ -44,7 +44,7 @@ console.log(person.phoneNumber.landline);
 // };
             
 // const me = Object.create(coder);
-// me.name = "Likith Ram Naik";
+// me.name = "Rohit";
 // me.isStudying = true;
 // me.printIntroduction();
             
